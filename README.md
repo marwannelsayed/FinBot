@@ -88,14 +88,20 @@ pip install streamlit pandas
 
 streamlit run chatbot_app.py
 
+---
+
 ## ❗ Limitations
 
 - Only supports Apple, Microsoft, and Tesla
 - Only responds to simple queries about revenue, income, assets, liabilities, and cash flow
 - No advanced NLP or fuzzy matching
 
+---
+
 ## 📄 License
 
 This project is for educational purposes only.
+
+---
 
 Made with ❤️ by Marwan
