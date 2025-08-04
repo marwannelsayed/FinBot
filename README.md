@@ -82,11 +82,11 @@ Try asking:
 
 Make sure you have Python 3 installed, then install the required packages:
 
-pip install streamlit pandas
+```pip install streamlit pandas```
 
 ### 2. Run the Chatbot App
 
-streamlit run chatbot_app.py
+```streamlit run chatbot_app.py```
 
 ---
 
